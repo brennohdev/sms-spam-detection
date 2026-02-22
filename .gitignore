@@ -51,3 +51,6 @@ models/
 data/
 *.csv
 *.xlsx
+
+notebooks/
+.ipynb
