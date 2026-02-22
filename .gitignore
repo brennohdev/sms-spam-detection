@@ -47,10 +47,9 @@ htmlcov/
 *.model
 models/
 
-# Data files
-data/
-*.csv
-*.xlsx
+data/*
+!data/*.dvc
+!data/.gitignore
 
 notebooks/
 *.ipynb
