@@ -53,3 +53,10 @@ data/*
 
 notebooks/
 *.ipynb
+
+# MLflow (Experiment tracking local)
+mlruns/
+mlflow.db
+
+# DVC 
+/data/spam.csv
