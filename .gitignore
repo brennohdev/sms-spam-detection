@@ -53,4 +53,4 @@ data/
 *.xlsx
 
 notebooks/
-.ipynb
+*.ipynb
