@@ -1,0 +1,53 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Build outputs
+*.o
+*.out
+*.exe
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ML Models (if applicable)
+*.pkl
+*.h5
+*.model
+models/
+
+# Data files
+data/
+*.csv
+*.xlsx
